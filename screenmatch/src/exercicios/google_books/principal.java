@@ -1,4 +1,4 @@
-package exercicios.requisicoes.api;
+package exercicios.google_books;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
